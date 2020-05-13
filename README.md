@@ -13,7 +13,8 @@ auto-detect'i değiştirelim
 
 IMAGEMAGICK_BINARY = os.getenv("IMAGEMAGICK_BINARY", "C:\Program Files\ImageMagick-7.0.10-Q16\convert.exe")
 
-4. İndirdiğimiz dosyayı açtığımız dizine gelelim ve setup.py'yi **python setup.py install** . 
+4. İndirdiğimiz dosyayı açtığımız dizine gelelim ve setup.py'yi **python setup.py install**  diyerek çalıştıralım. 
+
 
 
 
