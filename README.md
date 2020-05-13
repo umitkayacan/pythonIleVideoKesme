@@ -16,5 +16,8 @@ IMAGEMAGICK_BINARY = os.getenv("IMAGEMAGICK_BINARY", "C:\Program Files\ImageMagi
 4. İndirdiğimiz dosyayı açtığımız dizine gelelim ve setup.py'yi **python setup.py install**  diyerek çalıştıralım. 
 
 
+https://zulko.github.io/moviepy/ adresinden modülün diğer işlemlerini görebilirsiniz. (Video birleştirme, Videoya frame ekleme gibi)
+
+
 
 
